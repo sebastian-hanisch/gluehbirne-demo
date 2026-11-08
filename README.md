@@ -1,7 +1,6 @@
 # Hundert Gefangene und eine Glühbirne – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-gluehbirne-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-gluehbirne-demo.streamlit.app/)**
 
 Stück 3 der Linie „Teamrätsel“ in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Ein Team hat **ein gemeinsames Ziel**, darf **vorher eine Strategie festlegen** und handelt dann mit **beschränkter Information**: hier ein einziges Bit, der Schalter einer Glühbirne. Die Linie fragt, was eine abgesprochene Strategie bringt und wie viel zusätzliche Information wert ist. Das Stück hängt in der Planung an `gefangene-kaesten-demo` (Stück 1, Idee: ein Kanal als knappe Ressource); es setzt dessen Wissen nicht voraus. Abgrenzung: Die Koordinationsspiele-Linie (zum Beispiel `fokalpunkt-demo`) behandelt Eigennutz und Gleichgewichtsauswahl, hier geht es um ein gemeinsames Ziel und eine Strategie unter Informationsbeschränkung.
 
